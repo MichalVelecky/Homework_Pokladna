@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="uloha4_pokladna">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/velecky_4.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/velecky_4.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
